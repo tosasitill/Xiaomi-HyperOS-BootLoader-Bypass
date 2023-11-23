@@ -9,6 +9,9 @@ Feel free pull request if you want :)
 ## 💘 php-adb
 
 The project proudly uses the [php-adb](https://github.com/MlgmXyysd/php-adb) library.
+tosasitill translatored to Python vers.
+(please install pycryptodome)
+`pip3 install pycryptodome`
 
 ## ☕ Buy me a Coffee
 

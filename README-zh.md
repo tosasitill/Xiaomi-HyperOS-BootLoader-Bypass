@@ -9,6 +9,9 @@
 ## 💘 php-adb
 
 本项目使用了 [php-adb](https://github.com/MlgmXyysd/php-adb) 运行库。
+tosasitill 转译为了 Python 版本
+(如需使用请提前安装pycryptodome)
+`pip3 install pycryptodome`
 
 ## ☕ 支持开发
 
